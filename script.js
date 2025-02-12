@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function () {
+	document.addEventListener("DOMContentLoaded", function () {
     let audio = document.getElementById("bg-music");
 
     // Start music after user interaction (for autoplay restrictions)
@@ -259,7 +259,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 content.innerHTML = `
 					<div style="text-align: center;">
 						<img src="pictures/love.gif" alt="Love GIF" style="display: block; margin: 0 auto;">
-						<p style="font-size: 24px;">Yaaaaaay! I love you!</p>
+						<p style="font-size: 24px;">Yaaaaaay! I love you bb!</p>
 					</div>
 				
                     <div style="text-align: center; margin-top: 50px;">
