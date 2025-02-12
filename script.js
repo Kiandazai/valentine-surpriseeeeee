@@ -20,7 +20,7 @@
                     <div class="front pocket"></div>
                     <div class="letter">
                         <p class="words line1">I'm very veryyy lucky to have you in my life :p</p>
-                        <p class="words line2">I wish i could spend this valentine with u, pero babawi nalang akok sa Batangas hehe</p>
+                        <p class="words line2">I wish i could spend this valentine with u, pero babawi nalang ako sa Batangas hehe</p>
                         <p class="words line3">I love you more than you’ll ever know!</p>
                         <p class="words line4">- your loving bb</p>
                     </div>
